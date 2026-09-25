@@ -4,7 +4,7 @@
   <a href="https://sumant.sumantmourya.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-7F52FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://play.google.com/store/apps/details?id=com.amigo.dialer"><img src="https://img.shields.io/badge/Google%20Play-Recline-414141?style=for-the-badge&logo=googleplay&logoColor=3DDC84" alt="Recline on Google Play"/></a>
   <a href="https://linkedin.com/in/sumant-mourya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:SumantKushwaha.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:sumantmourya.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -212,7 +212,7 @@ Tell me the repetitive job and I'll tell you whether it's worth scripting.
 
 <p align="center">
   <a href="https://sumant.sumantmourya.workers.dev/services/"><img src="https://img.shields.io/badge/What%20I%20can%20build-7F52FF?style=for-the-badge" alt="Services"/></a>
-  <a href="mailto:SumantKushwaha.dev@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:sumantmourya.dev@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -220,7 +220,7 @@ Tell me the repetitive job and I'll tell you whether it's worth scripting.
   <a href="https://play.google.com/store/apps/details?id=com.amigo.dialer"><b>Google Play</b></a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/sumant-mourya"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://sumant.sumantmourya.workers.dev/support/"><b>Support</b></a> &nbsp;·&nbsp;
-  <a href="mailto:SumantKushwaha.dev@gmail.com"><b>Email</b></a>
+  <a href="mailto:sumantmourya.dev@gmail.com"><b>Email</b></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:4285F4,100:7F52FF&height=120&section=footer" alt=""/>
